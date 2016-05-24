@@ -9,6 +9,6 @@ By the end of each module you will have sufficient knowledge to get deeper into 
 
 ##Modules
 
-[- Version Control link](/version-control/README.md)
+[-Version Control](/version-control/README.md)
 
-[- FrontEnd Framework link](/front-end-framework/README.md)
+[-FrontEnd Framework](/front-end-framework/README.md)
